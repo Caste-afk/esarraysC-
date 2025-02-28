@@ -1,0 +1,15 @@
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\bin\Debug\net7.0\es2.exe
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\bin\Debug\net7.0\es2.deps.json
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\bin\Debug\net7.0\es2.runtimeconfig.json
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\bin\Debug\net7.0\es2.dll
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\bin\Debug\net7.0\es2.pdb
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\obj\Debug\net7.0\es2.csproj.AssemblyReference.cache
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\obj\Debug\net7.0\es2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\obj\Debug\net7.0\es2.AssemblyInfoInputs.cache
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\obj\Debug\net7.0\es2.AssemblyInfo.cs
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\obj\Debug\net7.0\es2.csproj.CoreCompileInputs.cache
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\obj\Debug\net7.0\es2.dll
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\obj\Debug\net7.0\refint\es2.dll
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\obj\Debug\net7.0\es2.pdb
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\obj\Debug\net7.0\es2.genruntimeconfig.cache
+C:\Users\10933991\Desktop\esarraysC-\es2\es2\obj\Debug\net7.0\ref\es2.dll

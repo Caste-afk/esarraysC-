@@ -1,0 +1,14 @@
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\bin\Debug\net8.0\es6.exe
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\bin\Debug\net8.0\es6.deps.json
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\bin\Debug\net8.0\es6.runtimeconfig.json
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\bin\Debug\net8.0\es6.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\bin\Debug\net8.0\es6.pdb
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\obj\Debug\net8.0\es6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\obj\Debug\net8.0\es6.AssemblyInfoInputs.cache
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\obj\Debug\net8.0\es6.AssemblyInfo.cs
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\obj\Debug\net8.0\es6.csproj.CoreCompileInputs.cache
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\obj\Debug\net8.0\es6.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\obj\Debug\net8.0\refint\es6.dll
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\obj\Debug\net8.0\es6.pdb
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\obj\Debug\net8.0\es6.genruntimeconfig.cache
+C:\Users\Eros\Desktop\PROGRAMMAZIONE\progetti_C#\es6\es6\obj\Debug\net8.0\ref\es6.dll
